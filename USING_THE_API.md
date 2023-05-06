@@ -1,3 +1,8 @@
+---
+layout: page
+title: USING THE AMAZING API
+permalink: /USING_THE_API
+---
 # USING THE AMAZING API
 
 ![using-the-api](images/dummy_1600x500_ffffff_8FBC8F_using-the-api.png)
@@ -79,4 +84,4 @@ amazing.send_data(data)
 # Be Amazing!
 That's it for our guide on using the Amazing API! We hope this has been a helpful resource for you as you explore the potential of our powerful, flexible, and well let's go ahead and say it: amazing API. Thank you for choosing the Amazing API, and happy coding!
 
-[Back to main page](/) | [Our Tech Story](OUR_TECH_STORY.md) | [Meet the Team](MEET_THE_TEAM.md)
+[Back to main page](index.md) | [Our Tech Story](OUR_TECH_STORY.md) | [Meet the Team](MEET_THE_TEAM.md)

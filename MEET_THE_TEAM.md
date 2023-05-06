@@ -31,4 +31,4 @@ Bob is a data scientist with a PhD in statistics. He enjoys working on complex p
 
 Alice is a product manager with a background in business and engineering. She loves to build products that solve real-world problems and has a keen eye for detail.
 
-[Back to main page](README.md) | [Our Tech Story](OUR_TECH_STORY.md) | [Using the API](USING_THE_API.md)
+[Back to main page](index.md) | [Our Tech Story](OUR_TECH_STORY.md) | [Using the API](USING_THE_API.md)
