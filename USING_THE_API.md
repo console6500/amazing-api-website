@@ -1,4 +1,4 @@
-# U S I N G    T H E    A M A Z I N G    A P I
+# USING THE AMAZING API
 
 ![using-the-api](images/dummy_1600x500_ffffff_8FBC8F_using-the-api.png)
 
@@ -18,7 +18,7 @@ print(data)
 ```
 # Methods
 
-*`get_data()`*
+## *`get_data()`*
 
 Retrieves some data from the Amazing API.
 
@@ -31,14 +31,33 @@ Returns:
     A JSON object containing the data.
 
 Example Usage:
+```javascript
+amazing = AmazingAPI()
+data = amazing.get_data()
+print(data)
+```
+Example Output:
+```json
+{
+  "success": true,
+  "data": {
+    "id": 1234,
+    "name": "Amazing Product",
+    "description": "This is the most amazing product you'll ever use!",
+    "price": 99.99,
+    "in_stock": true,
+    "categories": [
+      "Electronics",
+      "Gadgets",
+      "Innovations"
+    ]
+  }
+}
+```
 
-        amazing = AmazingAPI()
-        data = amazing.get_data()
-        print(data)
 
 
-
-*`send_data(data)`*
+## *`send_data(data)`*
 
 Sends some data to the Amazing API.
 
@@ -51,12 +70,13 @@ Returns:
     None
 
 Example Usage:
+```javascript
+amazing = AmazingAPI()
+data = {'name': 'John Smith', 'age': 30}
+amazing.send_data(data)
+```
 
-        amazing = AmazingAPI()
-        data = {'name': 'John Smith', 'age': 30}
-        amazing.send_data(data)
-
-
+# Be Amazing!
 That's it for our guide on using the Amazing API! We hope this has been a helpful resource for you as you explore the potential of our powerful, flexible, and well let's go ahead and say it: amazing API. Thank you for choosing the Amazing API, and happy coding!
 
-[Back to main page](README.md) | [Our Tech Story](OUR_TECH_STORY.md) | [Meet the Team](MEET_THE_TEAM.md)
+[Back to main page](/) | [Our Tech Story](OUR_TECH_STORY.md) | [Meet the Team](MEET_THE_TEAM.md)

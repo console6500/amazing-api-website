@@ -1,9 +1,14 @@
-# M E E T    T H E    T E A M 
+---
+layout: page
+title: Meet The Team
+permalink: /MEET_THE_TEAM
+---
+# MEET THE TEAM
 
 ![meet-the-team](images/dummy_1600x500_ffffff_5F9EA0_meet-the-team.png)
 
 ## John Doe
-    
+
 ![team-member-1](images/dummy_200x200_ffffff_00BFFF_xd.png)
 
 John is a software engineer with over 10 years of experience in the field. He has worked on several successful projects and enjoys hiking and playing tennis in his free time.
