@@ -21,4 +21,4 @@ But they didn't stop there. They wanted to make the language even more powerful 
 
 With the AmazingScript and the Amazing API, John, Jane, Bob, and Alice had created something truly amazing. They had brought together their diverse skills and expertise to create a new technology that would change the way people code forever.
 
-[Back to main page](index.md) | [Using the API](USING_THE_API.md) | [Meet the Team](MEET_THE_TEAM.md)
+[Back to main page](INDEX.md) | [Using the API](USING_THE_API.md) | [Meet the Team](MEET_THE_TEAM.md)
