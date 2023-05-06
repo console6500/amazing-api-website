@@ -7,7 +7,7 @@ permalink: /OUR_TECH_STORY
 
 ## John, Jane, Bob, and Alice: How We Created AmazingScript and the Amazing API
 
-![our-tech-story](images/dummy_1600x500_ffffff_3A5F0B_our-tech-story.png)
+![our-tech-story](images/1600x500_ffffff_3A5F0B_our-tech-story.png)
 
 It all started with a group of four tech enthusiasts: John Doe, Jane Smith, Bob Johnson, and Alice Lee. They all had different backgrounds but shared a common passion for technology.
 

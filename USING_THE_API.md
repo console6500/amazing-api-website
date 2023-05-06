@@ -5,7 +5,7 @@ permalink: /USING_THE_API
 ---
 # USING THE AMAZING API
 
-![using-the-api](images/dummy_1600x500_ffffff_8FBC8F_using-the-api.png)
+![using-the-api](images/1600x500_ffffff_8FBC8F_using-the-api.png)
 
 Welcome to the "Using the API" page! We will provide a step-by-step guide on how to use the Amazing API, including how to make requests, handle responses, and integrate the API into your application. Whether you're an experienced developer or new to APIs, we've got you covered with all the information you need to get started. Let's dive in!
 
